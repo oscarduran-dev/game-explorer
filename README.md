@@ -29,42 +29,40 @@ Tecnologías:
 
 Capturas de pantalla:
 
-• Login
-![Login](./screenshots/Login.jpeg)
+• Login 
+<img src="./screenshots/Login.jpeg" width="300"> 
 
-• Register
-![Register](./screenshots/Register.jpeg)
+• Register 
+<img src="./screenshots/Register.jpeg" width="300"> 
 
-• Home
-![Home](./screenshots/Home.jpeg)
+• Home 
+<img src="./screenshots/Home.jpeg" width="300">
 
-• Games
-![Games](./screenshots/Games.jpeg)
+• Games 
+<img src="./screenshots/Games.jpeg" width="300"> 
 
-• Games — Categorías
-![Games — Categorías](./screenshots/Games2.jpeg)
+• Games - Categorías 
+<img src="./screenshots/Games2.jpeg" width="300"> 
 
-• Details
-![Details](./screenshots/Details.jpeg)
+• Details 
+<img src="./screenshots/Details.jpeg" width="300"> 
 
-• Details — Información adicional
-![Details — Información adicional](./screenshots/Details2.jpeg)
+• Details -Información adicional 
+<img src="./screenshots/Details2.jpeg" width="300"> 
 
-• Search
-![Search](./screenshots/Search.jpeg)
+• Search 
+<img src="./screenshots/Search.jpeg" width="300"> 
 
-• Favorites
-![Favorites](./screenshots/Favorites.jpeg)
+• Favorites 
+<img src="./screenshots/Favorites.jpeg" width="300"> 
 
-• Profile
-![Profile](./screenshots/Profile.jpeg)
-
+• Profile 
+<img src="./screenshots/Profile.jpeg" width="300">
 
 
 
 Estructura del proyecto:
-
-![Estructura](./screenshots/Estructura.jpg)
+<img src="./screenshots/Estructura.jpg" width="500">
 
 
 
